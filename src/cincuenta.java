@@ -7,8 +7,9 @@ public class cincuenta {
             Matriz [i] = j;
             suma += Matriz[i];
             j++;
-            System.out.println(suma);
 
         }
+        System.out.println(suma);
+
     }
 }
